@@ -18,15 +18,15 @@ I’m a full-stack software developer and AI enthusiast who loves building real-
 
 ### 🔹 [Discord Bot](https://github.com/arzharch/Discord-Bot)
 A multi-functional, agent-style Discord bot built to route tasks and respond intelligently using modern NLP techniques.
-- Implemented **zero-shot classification** to categorize natural language input into actionable tasks like music playback, calendar reminders, and Q&A
+- Implemented **zero-shot classification** to categorize natural language, currently switched to !command based input into actionable tasks like music playback, calendar reminders, and Q&A to reduce overhead
 - Integrated external services such as **Spotify**, **Google Calendar**, and web scraping for fallback question handling
 - Designed a modular backend using **FastAPI**, ensuring maintainable and scalable code structure
-- Experimented with **Mistral LLM** for JSON-based action generation and incorporated **Piper TTS** for voice responses, demonstrating agentic behavior
+- Experimented with **Mistral LLM** for JSON-based action generation, demonstrating agentic behavior
 
 ### 🔹 Fintelligence (Private Repository - will soon be made Public)
 An AI-powered personal finance app designed as a full-stack capstone project.
 - Built the backend using **FastAPI** and **Supabase**, with **JWT-based authentication** and a well-structured relational schema
-- Developed a **custom neural network** to classify financial text input (e.g., “Paid 250 for groceries”) with ~99% accuracy across 10+ categories
+- Developed a **convolution neural network** to classify financial text input (e.g., “Paid 250 for groceries”) with ~99% accuracy across 10+ categories between expenses and incomes
 - Implemented a **genetic algorithm** to rank mutual funds using multi-year NAV data and 26+ financial indicators
 - Delivered a seamless user experience through a **React Native** front end, complete with dynamic visualization of budget analytics
 
@@ -88,6 +88,5 @@ A machine learning–based facial recognition pipeline combining modern detectio
 
 📧 **Email**: arsh.chowhan@outlook.com  
 🔗 **LinkedIn**: [linkedin.com/in/arsh-zakee-chowhan](https://linkedin.com/in/arsh-zakee-chowhan)  
-🧠 **LeetCode**: [leetcode.com/arzharch](https://leetcode.com/arzharch)
 
 Let's connect and build together!
