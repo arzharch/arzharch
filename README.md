@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm Arsh!
 
-I’m a full-stack software developer and AI enthusiast who loves building real-world systems using modern backend tools and LLM-powered automation. Whether it’s crafting APIs, integrating intelligent agents, or shipping complete features end-to-end — I enjoy solving problems that matter.
+I’m a Backend Developer and AI Engineer who loves building real-world systems using modern backend tools and LLM-powered automation. Whether it’s crafting APIs, integrating intelligent agents, or shipping complete features end-to-end — I enjoy solving problems that matter.
 
 ---
 
