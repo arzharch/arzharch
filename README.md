@@ -2,11 +2,4 @@
 
 #### hey, i’m arsh
 
-i write backend code.  
-sometimes with ai.  
-sometimes not.  
-still figuring things out.
-
----
-
-🛠 current mood: fastapi, agents, rag  
+i write backend code, sometimes with ai, sometimes not.  
