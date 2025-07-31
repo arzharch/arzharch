@@ -9,10 +9,10 @@
 
 ---
 
-### 🔧 What I Love Building
-- **Autonomous AI agents** with LangChain, CrewAI, LangGraph  
-- **Backend APIs** with FastAPI, PostgreSQL, Redis, Python
-- **Real-world AI solutions** with React Native, React, Supabase, Firebase, Google Cloud Platform
+### I've Built : 
+- **Autonomous AI agents** with LangChain, CrewAI, LangGraph and more 
+- **Backend APIs** with FastAPI, PostgreSQL, Redis, Python, PHP and more
+- **Real-world AI solutions** with React Native, React, Supabase, Firebase, Google Cloud Platform and more
 
 ---
 
