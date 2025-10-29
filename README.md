@@ -18,7 +18,7 @@ I build production backends and AI agents. My thing is moving fast — research,
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-Microservices • Async Processing (Celery) • Distributed Systems • Cloud-Native Architecture
+Microservices • Scalable and Robust • Distributed Systems • Cloud-Native Architecture
 
 ## AI Agents
 
