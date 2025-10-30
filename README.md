@@ -1,9 +1,10 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdsdnZoaml1eTg0enVkbGQ2ejM1YmZpZm5xanhqMHlxcGdkYXJrbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/maNB0qAiRVAty/giphy.webp" width="300"/>
 </div>
-# Hey, I'm Arsh 👋
 
-I build production backends and AI agents. My thing is moving fast — research, prototype, deploy. I specialize in rapid PoCs that actually work in production.
+Hey, I'm Arsh 👋
+
+I enjoy building production backends and AI agents. My thing is moving fast : research, prototype, deploy. I specialize in rapid PoCs that actually work in production.
 
 ---
 
