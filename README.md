@@ -6,6 +6,7 @@ Hey, I'm Arsh 👋
 
 I enjoy building production backends and AI agents. My thing is moving fast : research, prototype, deploy. I specialize in rapid PoCs that actually work in production.
 
+Currently looking for AI Engineer / Backend / Forward Deployed roles. If you're hiring, let's talk.
 ---
 
 ## Backend
@@ -33,11 +34,5 @@ Microservices • Scalable and Robust • Distributed Systems • Cloud-Native A
 CrewAI • Smol Agents • Ollama • LlamaIndex • VectorDB/FAISS • Model Context Protocol • LangChain • LangGraph • Google ADK
 
 ---
-
-## What I enjoy
-
-Picking up repetitive time-consuming problems and building AI workflows.
-
-Picking up new frameworks (currently trying to understand [google ap2](https://cloud.google.com/blog/products/ai-machine-learning/announcing-agents-to-payments-ap2-protocol) )
 
 [Mail](arsh.chowhan@outlook.com) • [LinkedIn](https://linkedin.com/in/arsh-zakee-chowhan/)
