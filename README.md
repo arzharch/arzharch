@@ -36,4 +36,4 @@ CrewAI • Smol Agents • Ollama • LlamaIndex • VectorDB/FAISS • Model Co
 
 ---
 
-[Mail](arsh.chowhan@outlook.com) • [LinkedIn](https://linkedin.com/in/arsh-zakee-chowhan/)
+Mail - arsh.chowhan@outlook.com • [LinkedIn](https://linkedin.com/in/arsh-zakee-chowhan/)
